@@ -1,0 +1,5 @@
+barthYear = input("Eanter Your Barth Year: ")
+print (type(barthYear))
+calculated = 2024 - int(barthYear)
+print (type(calculated))
+print (calculated)
